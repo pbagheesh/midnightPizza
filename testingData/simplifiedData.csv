@@ -1,0 +1,13 @@
+City,Population,Robbery,Burglary,Arson
+Location,numeric,numeric,numeric,numeric
+Auburn,22948,10,197,2
+Augusta,18893,16,206,5
+Bangor,32744,35,243,4
+Bar Harbor, 5275,2,19,0
+Brunswick,20354,4,90,0
+Freeport,8094,0,25,0
+Kennebunkport,3517,0,17,0
+Oakland,6253,0,24,0
+Portland,66256,85,383,6
+Rockland,7205,0,31,0
+Waterville,15897,13,105,1

@@ -1,0 +1,15 @@
+City,Population,Robbery,Burglary,Arson,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Location,Numeric,Numeric,Numeric,Numeric,,STDDEV,Mean,Median,Variance
+Auburn,"22,948",10,197,2,Population,18159.05439,"18,858","15,897",329751256.2
+Augusta,"18,893",16,206,5,Robbery,25.53429067,15,4,652
+Bangor,"32,744",35,243,4,,,,,
+Bar Harbor,"5,275",2,19,0,,,,,
+Brunswick,"20,354",4,90,0,,,,,
+Freeport,"8,094",0,25,0,,,,,
+Kennebunkport,"3,517",0,17,0,,,,,
+Oakland,"6,253",0,24,0,,,,,
+Portland,"66,256",85,383,6,,,,,
+Rockland,"7,205",0,31,0,,,,,
+Waterville,"15,897",13,105,1,,,,,

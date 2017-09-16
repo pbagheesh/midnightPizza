@@ -1,0 +1,14 @@
+City,Population,Violent,Murder and,Robbery,Aggravated,Property,Burglary,Larceny-,Motor,Arson,,crime,nonnegligent,,assault,crime,,theft,vehicle,
+,,,manslaughter,,,,,,theft,
+Location,Numeric,Numeric,Numeric,Numeric,Numeric,Numeric,Numeric,Numeric,Numeric,Numeric
+Auburn,"22,948",32,0,10,12,"1,072",197,858,17,2
+Augusta,"18,893",68,1,16,26,"1,206",206,969,31,5
+Bangor,"32,744",70,3,35,22,"1,844",243,"1,564",37,4
+Bar Harbor,"5,275",3,0,2,1,79,19,59,1,0
+Brunswick,"20,354",23,8,4,11,509,90,409,10,0
+Freeport,"8,094",3,0,0,2,158,25,129,4,0
+Kennebunkport,"3,517",1,1,0,0,64,17,47,0,0
+Oakland,"6,253",3,0,0,0,102,24,72,6,0
+Portland,"66,256",177,1,85,70,"2,612",383,"2,160",69,6
+Rockland,"7,205",8,0,0,7,241,31,203,7,0
+Waterville,"15,897",43,0,13,15,804,105,684,15,1
